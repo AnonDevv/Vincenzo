@@ -4,9 +4,9 @@
   <img alt="Status" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" />
 </p>
 
-Hi guys, I'm **PHATBENTRE**. I am a developer from <img alt="Vietnamese Flag" src="https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fwww.countryflags.com%2Fvietnam-flag-image%2F&psig=AOvVaw2_ugQjL6SWdUdK-mZzqeMg&ust=1645877387646000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiB0prpmvYCFQAAAAAdAAAAABAD" width="13" /> **Vietnamese, Ben Tre City**. I'm currently working on FiveM Server Developer.
-I have some works with **JavaScript**, **Node.js**, **React.JS**, **C#**, and **C++**, contact me if you have same interesting or some questions!
-</br>📫 How to reach me: <a href="https://www.facebook.com/z0n97/">Facebook</a>
+Hi guys, I'm **PHATBENTRE**. I am a developer from **Vietnamese, Ben Tre City**. I'm currently working on SA-MP Developer.
+I have some works with **PAWNO**, **HTML**, **CSS** - contact me if you have same interesting or some questions!
+</br>📫 How to reach me: <a href="https://www.facebook.com/F4TVN/">Facebook</a>
 
 <h2>🚀 Technologies</h2>
 <p>
@@ -28,17 +28,11 @@ I have some works with **JavaScript**, **Node.js**, **React.JS**, **C#**, and **
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
-<h2>🔖 Projects</h2>
+<h2>MY TEAM</h2>
 <p>
-  <img src="https://i.imgur.com/7Qu1B2L.png" alt="Next Evolution Roleplay" />
+  <img src="https://media.discordapp.net/attachments/816636507712258081/853112071684489246/logo.png?width=640&height=630" alt="F4T TEAM" />
 </p>
  
-<h2>⚡ GitHub Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=z0nzjn123&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
-  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=z0nzjn123&theme=react&hide_border=true" alt="Wakatime" />
-</p>
-zzzzzzzzzzzzzzzzzzz
 
 <!--
 **PHATBENTRE/PHATBENTRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
