@@ -1,7 +1,7 @@
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm PHATBENTRE</h1>
 
 <p>
-  <img alt="Status" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" />
+<a href="https://www.youtube.com/phatbentre/">YOUTUBE</a>
 </p>
 
 Hi guys, I'm **PHATBENTRE**. I am a developer from **Vietnamese, Ben Tre City**. I'm currently working on SA-MP Developer.
@@ -21,7 +21,7 @@ I have some works with **PAWNO**, **HTML**, **CSS** - contact me if you have sam
 
 <h2> FROM F4T TEAM</h2>
 <p>
-  <img src="https://media.discordapp.net/attachments/816636507712258081/853112071684489246/logo.png?width=640&height=630" alt="F4T TEAM" />
+  <img src="https://media.discordapp.net/attachments/816636507712258081/853112071684489246/logo.png?width=640&height=630" alt="F4T TEAM" />z
 </p>
  
 
